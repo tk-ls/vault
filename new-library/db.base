@@ -1,0 +1,21 @@
+properties:
+  file.tags:
+    displayName: "project:"
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.path.contains("library")
+        - file.name != "db.base"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 140
+    imageAspectRatio: 1

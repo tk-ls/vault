@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - '!file.path.contains("library")'
+        - file.name != "db.base"
+    order:
+      - file.name
+      - file.folder
+      - file.mtime
+      - file.ctime
+    cardSize: 240

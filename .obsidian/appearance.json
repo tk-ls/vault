@@ -1,0 +1,11 @@
+{
+  "showRibbon": true,
+  "interfaceFontFamily": "SF Pro Text",
+  "textFontFamily": "SF Pro Text",
+  "monospaceFontFamily": "SF Mono",
+  "baseFontSize": 20,
+  "cssTheme": "Omarchy",
+  "accentColor": "",
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

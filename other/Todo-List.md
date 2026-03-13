@@ -1,0 +1,4 @@
+- [x] get aura
+- [ ] rizz up someone
+- [ ] hit first base
+- [ ] make $10
