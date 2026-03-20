@@ -172,13 +172,23 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "66aedfcc0f0d03ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +204,11 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ae914024ece7139",
+  "active": "d42fbc5a2b29fd5d",
   "lastOpenFiles": [
     "new-library/cc-psychology/Week-7.md",
     "new-library/lord-of-the-rings/Week-4.md",
