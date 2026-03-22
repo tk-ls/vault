@@ -11,14 +11,13 @@
             "id": "f78b9a6dac5722c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "new-library/cc-psychology/Week-9.md",
-                "mode": "source",
-                "source": false
+                "file": "new-library/db.base",
+                "viewName": "Cards"
               },
-              "icon": "lucide-file",
-              "title": "Week-9"
+              "icon": "lucide-layout-grid",
+              "title": "db"
             }
           }
         ]
@@ -211,24 +210,24 @@
   "active": "f78b9a6dac5722c2",
   "lastOpenFiles": [
     "new-library/cc-psychology/Week-8.md",
-    "new-library/cc-psychology/Week-9.md",
+    "new-library/cc-psychology/Week-5.md",
+    "old-library/lord-of-the-rings/Week-1.md",
+    "old-library/lord-of-the-rings/Week-2.md",
+    "old-library/lord-of-the-rings/Week-3.md",
+    "old-library/lord-of-the-rings/Week-4.md",
     "new-library/db.base",
+    "new-library/cc-psychology/Week-9.md",
+    "new-library/cc-psychology/Week-7.md",
     "db.base",
     "school/entprojsc.md",
-    "old-library/lord-of-the-rings/Week-4.md",
-    "new-library/cc-psychology/Week-7.md",
-    "old-library/lord-of-the-rings/Week-3.md",
     "new-library/cc-psychology/Week-6.md",
     "school/Speech.md",
     "Untitled.md",
     "Untitled 2.md",
-    "new-library/cc-psychology/Week-5.md",
     "new-library/cc-psychology/Week-3.md",
     "new-library/cc-psychology/Week-4.md",
     "new-library/cc-psychology/Week-1.md",
     "new-library/cc-psychology/Week-2.md",
-    "old-library/lord-of-the-rings/Week-2.md",
-    "old-library/lord-of-the-rings/Week-1.md",
     "old-library/atomic-habits/Week-1.md",
     "other/pat.md",
     "other/Todo-List.md",
@@ -238,7 +237,6 @@
     "old-library/refugee/Week-3.md",
     "old-library/refugee/Week-2.md",
     "old-library/refugee/Week-1.md",
-    "old-library/economy/Week-4.md",
     "fix_tags.sh",
     "new-library/cc-psychology",
     "old-library/refugee",
