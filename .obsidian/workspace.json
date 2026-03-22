@@ -11,10 +11,13 @@
             "id": "f78b9a6dac5722c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "new-library/db.base",
+                "viewName": "Cards"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "db"
             }
           }
         ]
@@ -206,6 +209,7 @@
   },
   "active": "f78b9a6dac5722c2",
   "lastOpenFiles": [
+    "db.base",
     "school/entprojsc.md",
     "old-library/lord-of-the-rings/Week-4.md",
     "new-library/cc-psychology/Week-7.md",
@@ -233,8 +237,6 @@
     "old-library/refugee/Week-1.md",
     "old-library/economy/Week-4.md",
     "old-library/economy/Week-3.md",
-    "old-library/economy/Week-2.md",
-    "db.base",
     "fix_tags.sh",
     "new-library/cc-psychology",
     "old-library/refugee",
