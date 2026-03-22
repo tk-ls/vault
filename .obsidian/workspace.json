@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new-library/cc-psychology/Week-9.md",
+                "file": "new-library/twilight/Week-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-9"
+              "title": "Week-2"
             }
           }
         ]
@@ -208,8 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f78b9a6dac5722c2",
+  "active": "d42fbc5a2b29fd5d",
   "lastOpenFiles": [
+    "new-library/twilight/Week-1.md",
+    "new-library/twilight/Week-2.md",
+    "new-library/cc-psychology/Week-9.md",
+    "new-library/twilight",
     "new-library/cc-psychology/Week-1.md",
     "db.base",
     "temp/Untitled.md",
@@ -222,7 +226,6 @@
     "old-library/lord-of-the-rings/Week-2.md",
     "old-library/lord-of-the-rings/Week-3.md",
     "old-library/lord-of-the-rings/Week-4.md",
-    "new-library/cc-psychology/Week-9.md",
     "new-library/cc-psychology/Week-7.md",
     "school/entprojsc.md",
     "new-library/cc-psychology/Week-6.md",
@@ -237,14 +240,12 @@
     "old-library/the-selfish-gene/Week-1.md",
     "old-library/refugee/Week-4.md",
     "old-library/refugee/Week-3.md",
-    "old-library/refugee/Week-2.md",
     "fix_tags.sh",
     "new-library/cc-psychology",
     "old-library/refugee",
     "Pasted image 20260106151532.png",
     "new-vault/db.base",
     "old-vault/the-selfish-gene",
-    "old-vault/whale-song",
-    "old-vault/immense-world"
+    "old-vault/whale-song"
   ]
 }
