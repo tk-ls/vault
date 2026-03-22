@@ -11,13 +11,14 @@
             "id": "f78b9a6dac5722c2",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "new-library/db.base",
-                "viewName": "Cards"
+                "file": "new-library/cc-psychology/Week-9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "db"
+              "icon": "lucide-file",
+              "title": "Week-9"
             }
           }
         ]
@@ -209,6 +210,9 @@
   },
   "active": "f78b9a6dac5722c2",
   "lastOpenFiles": [
+    "new-library/cc-psychology/Week-8.md",
+    "new-library/cc-psychology/Week-9.md",
+    "new-library/db.base",
     "db.base",
     "school/entprojsc.md",
     "old-library/lord-of-the-rings/Week-4.md",
@@ -230,13 +234,11 @@
     "other/Todo-List.md",
     "old-library/lord-of-the-rings",
     "old-library/the-selfish-gene/Week-1.md",
-    "new-library/db.base",
     "old-library/refugee/Week-4.md",
     "old-library/refugee/Week-3.md",
     "old-library/refugee/Week-2.md",
     "old-library/refugee/Week-1.md",
     "old-library/economy/Week-4.md",
-    "old-library/economy/Week-3.md",
     "fix_tags.sh",
     "new-library/cc-psychology",
     "old-library/refugee",
