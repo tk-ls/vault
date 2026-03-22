@@ -11,13 +11,14 @@
             "id": "f78b9a6dac5722c2",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "db.base",
-                "viewName": "Cards"
+                "file": "new-library/cc-psychology/Week-9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "db"
+              "icon": "lucide-file",
+              "title": "Week-9"
             }
           }
         ]
@@ -207,12 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d42fbc5a2b29fd5d",
+  "active": "f78b9a6dac5722c2",
   "lastOpenFiles": [
+    "new-library/cc-psychology/Week-1.md",
     "db.base",
+    "temp/Untitled.md",
     "Untitled 2.md",
     "Untitled.md",
-    "new-library/cc-psychology/Week-1.md",
     "new-library/db.base",
     "new-library/cc-psychology/Week-8.md",
     "new-library/cc-psychology/Week-5.md",
@@ -236,7 +238,6 @@
     "old-library/refugee/Week-4.md",
     "old-library/refugee/Week-3.md",
     "old-library/refugee/Week-2.md",
-    "old-library/refugee/Week-1.md",
     "fix_tags.sh",
     "new-library/cc-psychology",
     "old-library/refugee",
