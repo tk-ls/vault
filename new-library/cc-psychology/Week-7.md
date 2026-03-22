@@ -1,3 +1,4 @@
+#cc-psychology
 ## 20. Adolescence
 1. Adolescence is defined as the transition period from childhood, extending from puberty to independence.
 2. idk

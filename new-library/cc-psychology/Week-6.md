@@ -1,4 +1,4 @@
-#cc-psychology
+#cc-psychology #done
 ## 17. The Power of Motivation
 1. Motivation is the need or desire to do something. ✓
 2. The first motivation theory is: the evolutionary perspective (Instinct Theory). ✓
