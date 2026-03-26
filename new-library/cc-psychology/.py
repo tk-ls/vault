@@ -19,9 +19,9 @@ def fix_line(line):
 
     return fixed + "\n"
 
-with open("Week-9.md", "r", encoding="utf-8") as f:
+with open("Week-7.md", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
-with open("Week-9.md", "w", encoding="utf-8") as f:
+with open("Week-7.md", "w", encoding="utf-8") as f:
     for line in lines:
         f.write(fix_line(line))

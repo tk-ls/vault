@@ -1,4 +1,4 @@
-#cc-psychology
+#cc-psychology #done
 ## 26. Emotion, Stress, and Health
 1. The facial feedback hypothesis states that facial expressions can help regulate our emotions. For example, smiling broadly, even when not happy, can lift your mood, while scowling can lower it. ✓
 2. Introverts are usually better at interpreting other people's emotions, while extroverts are often better at expressing their emotions. ✓
