@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new-library/cc-psychology/Week-9.md",
+                "file": "C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-9"
+              "title": "C++"
             }
           }
         ]
@@ -211,12 +211,13 @@
   },
   "active": "f78b9a6dac5722c2",
   "lastOpenFiles": [
+    "new-library/cc-psychology/Week-9.md",
+    "C++.md",
     "new-library/twilight/Week-3.md",
     "new-library/cc-psychology/Week-10.md",
     "school/entprojsc.md",
     "new-library/twilight/Week-2.md",
     "new-library/twilight/Week-1.md",
-    "new-library/cc-psychology/Week-9.md",
     "new-library/cc-psychology/Week-5.md",
     "new-library/cc-psychology/Week-7.md",
     "new-library/cc-psychology/Week-8.md",
@@ -229,7 +230,6 @@
     "db.base",
     "temp/Untitled.md",
     "Untitled 2.md",
-    "Untitled.md",
     "new-library/db.base",
     "old-library/lord-of-the-rings/Week-1.md",
     "old-library/lord-of-the-rings/Week-2.md",
